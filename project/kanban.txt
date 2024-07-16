@@ -1,0 +1,86 @@
+[Backlog]  # Historias con tiempo estimado.
+
+codigo: C002-Login / bypass Login / time 2hrs
+codigo: C003-Login / Testing /  time 2hrs
+codigo: D004-Auth / Testing / time 2hrs
+codigo: F001-Libreria Print  / Libros para imprimir / 40min
+codigo: G002-Basket - Print / Basket / time 30min
+codigo: G003-Basket / Testing / time 3hrs
+codigo: H001-Styles / CSS Styling / time 8hrs
+codigo: I001-Refactor /  Refactorizar / 7hrs
+
+
+
+[Sprint]  # Historias a realizar en un spring con responsable asignado
+
+
+[En proceso]  # Historias en proceso
+
+
+código: B001 - Index / TXEPE y MIKEL
+
+código: E003-Libreria / ALBERTO 
+
+código: E004-Libreria / ALBERTO 
+
+código: E005-Libreria / ALBERTO 
+
+código: E006-Libreria TESTING / ALBERTO 
+
+código: c002-login / TXEPE y AITOR
+
+ código: H001 Styles CSS Txepe / Mikel 
+
+
+
+
+
+[Revision]  # Historias pendientes de aprobación, con el tiempo dedicado
+
+        codigo: A002 - Creación de archivos / Aitor 
+
+        código: D001 - auth / AITOR
+
+        código: D002 - auth / AITOR
+
+        código: D003 - auth / AITOR
+
+        código: E001-Libreria / ALBERTO y JUANES                Time elapsed: 2h
+
+        código: E002-Libreria / ALBERTO                         Time elapsed: 2h
+
+        código: E002-Unit tests / ALBERTO                         Time elapsed: 2h
+
+        codigo: G001-Basket / AITOR
+
+        codigo: D005-Auth / AITOR
+
+
+        
+
+[Finalizado] # Historias finalizadas
+
+        codigo: a001 - Creación de archivos  
+
+        codigo: a002 - creacion de archivos JSON
+
+        codigo: b001 -index -creacion del html de la pagina index.html
+
+        codigo: c001 -login -creacion del formulario login
+        
+        codigo: c002 -bypass login 
+        
+        codigo: C003 -login Testing
+
+        codigo: d001 -recoleccion de datos para auth.html
+
+        codigo: d002 -validacion y redireccion -auth-
+
+        codigo: d003 -
+
+
+
+
+
+
+
